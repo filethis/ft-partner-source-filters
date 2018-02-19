@@ -1,0 +1,31 @@
+{
+  "name": "ft-partner-source-filters",
+  "description": "An element that lets parters filter the sources/institutions they want.",
+  "main": "ft-partner-source-filters.html",
+  "dependencies": {
+    "ft-element-demo": "filethis/ft-element-demo#^0.0.11",
+    "polymer": "Polymer/polymer#1.9 - 2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#1 - 2",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#1 - 2",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#1 - 2",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "1.9 - 2",
+    "webcomponentsjs": "^1.0.0"
+  },
+  "homepage": "https://github.com/filethis/ft-partner-source-filters",
+  "_release": "17a3df95a4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "17a3df95a4e3901a6712d5e75475d0e8dfef90c5"
+  },
+  "_source": "https://github.com/filethis/ft-partner-source-filters.git",
+  "_target": "master",
+  "_originalSource": "filethis/ft-partner-source-filters",
+  "_direct": true
+}
