@@ -1,7 +1,7 @@
 # Project configuration
 NAME=ft-partner-source-filters
 SRC_DIR=
-VERSION=1.0.6
+VERSION=1.0.7
 LOCAL_PORT=3530
 GITHUB_USER=filethis
 GITHUB_USER_ABBREV=ft-partner-source-filters
